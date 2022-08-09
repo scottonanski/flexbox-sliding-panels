@@ -1,6 +1,6 @@
 # Flexbox-Sliding-Panels
 
-Purse HTML, CSS, & JavaScript Horizontal Interface
+Pure HTML, CSS, & JavaScript Horizontal Interface
 
 ![screen-cap](https://raw.githubusercontent.com/scottonanski/flexbox-sliding-panels/main/images/screen-cap.png)
 ---
